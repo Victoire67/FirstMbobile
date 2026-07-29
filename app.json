@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "firstMobile",
-    "slug": "firstMobile",
+    "slug": "firstmobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "621222dc-fe59-432d-83ac-db0378895814"
+      }
+    },
+    "owner": "victor_script"
   }
 }
